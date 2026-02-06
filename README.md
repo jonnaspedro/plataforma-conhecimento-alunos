@@ -49,5 +49,3 @@ Alunos do ensino médio e superior que desejam compartilhar conhecimentos, organ
 ## Considerações Finais
 
 O Comunica IF visa contribuir para a melhoria do ambiente educacional, promovendo um espaço digital onde o conhecimento possa ser construído de forma coletiva e acessível a todos os participantes.
-
-O Comunica IF visa contribuir para a melhoria do ambiente educacional, promovendo um espaço digital onde o conhecimento possa ser construído de forma coletiva e acessível a todos os participantes.
